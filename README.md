@@ -1,1 +1,3 @@
-# RNN-Stocks-Forecasting
+# RNN Stocks Forecasting
+
+## 1. Description
