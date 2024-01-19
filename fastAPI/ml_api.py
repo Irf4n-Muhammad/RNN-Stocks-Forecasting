@@ -10,7 +10,7 @@ from pydantic import BaseModel
 import pickle
 import json
 
-# app new test
+# app new 19/01/2024
 app = FastAPI()
 
 
