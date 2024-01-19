@@ -10,7 +10,7 @@ from pydantic import BaseModel
 import pickle
 import json
 
-# app new
+# app new yes
 app = FastAPI()
 
 
